@@ -1,4 +1,5 @@
 ## Student Academic Performance Analysis 📚📈  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hamza-Issaoui/Projet-Analyse-de-donn-es.git/master)
 
 ![Stu.jpg](https://camo.githubusercontent.com/7fd1c8b9e4ecb1a8b8f0824531904fe95dab2043c5f4da5702f253457a6db6d2/68747470733a2f2f626c6f672e6b696e656d732e636f6d2f636f6e74656e742f696d616765732f323031382f30342f547261636b696e675f486561646c696e652e706e67
 )
